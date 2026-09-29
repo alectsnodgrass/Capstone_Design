@@ -19,12 +19,34 @@ The completed project delivered a restored demonstration vehicle, retrofit docum
 
 # Capabilities
 
-Here explain in more detail (though not as much as will be given in the datasheet) what the version of this project in this repo is capable of doing.
+The completed project combines a solar-assisted vehicle retrofit, adaptable mounting hardware, and a maximum power point solar-tracking concept.
+
+ - **Operational vehicle platform:** A restored Tennessee Tech Club Car supports demonstration and testing of the LANI-EV solar retrofit.
+
+ - **Solar-assisted battery charging:** A lithium iron phosphate (LiFePO₄) battery and compatible solar-charging system supply vehicle power and replenish stored energy when sunlight is available.
+
+ - **Performance characterization:** Recorded charging and discharge data show how solar input compares with vehicle energy demand under documented operating conditions.
+
+ - **Adaptable panel mounting:** A functional mounting-kit prototype provides a common attachment approach designed for selected models from at least two major vehicle brands. Engineering drawings and installation instructions define its supported configurations.
+
+ - **Simulated solar tracking:** A control algorithm uses vehicle-state, compass-heading, date/time, and geographic-location inputs to calculate panel orientation and generate coordinated commands for four servos. Simulation covers parked-operation logic, motion limits, and invalid-input handling.
+
+ - **Repeatable engineering documentation:** Conversion instructions, wiring diagrams, component records, test procedures, and editable design files support maintenance and future development.
+
+Full-scale powered panel positioning remains a future implementation step. Solar charging supplements the battery’s energy supply; grid-free operation depends on sunlight, driving conditions, and vehicle usage.
 
 
 # Salient Outcomes
 
-Projects often have some outcomes that are more interesting than others. Here, highlight those things that you found interesting!
+ - Restoration became a substantial engineering contribution. The inherited vehicle arrived disassembled, without batteries or a steering wheel, and with extra, unnecessary components. Establishing a functional test platform required evaluating and restoring the vehicle before completing the retrofit.
+
+ - The project connected solar generation to actual vehicle demand. Charge-versus-discharge testing provided a practical basis for evaluating solar assistance under specific operating conditions.
+
+ - The mounting design addressed more than one vehicle configuration. A three-brand roof survey informed an adaptable kit architecture, with shared components and model-specific interfaces documented for future refinement.
+
+ - Parked time became an opportunity for further design exploration. The tracking concept explored how panel orientation could follow the sun while the vehicle is stationary. 
+
+ - The documentation supports continued development. The project leaves future teams with a traceable record of the vehicle configuration, installation process, test results, and design assumptions.
 
 
 # Project Demonstration & Images
@@ -35,7 +57,7 @@ Give a link to a video of the project being demonstrated. The video should be ho
 # About Us
 
 ### Alec Snodgrass 
-Alec Snodgrass is a senior double major in Electrical Engineering and Physics, serving as the team lead for this capstone project. He is responsible for project management, external communication with the industry sponsor, and oversight of subsystems integration. His prior physics research capstone experience contributes to structured experimental design, data analysis, and methodology development. In addition to managerial responsibilities, he maintains equal technical contribution. His prior military leadership experience informs his organizational approach and accountability standards in managing a multi-member engineering team.
+Alec Snodgrass will graduate Fall 2026 with a B.S. in both in Electrical Engineering and Physics. Serving as the team lead for this capstone project, he is responsible for project management, external communication with the industry sponsor, and oversight of subsystems integration. His prior physics research capstone experience contributes to structured experimental design, data analysis, and methodology development. In addition to managerial responsibilities, he maintains equal technical contribution. His prior military leadership experience informs his organizational approach and accountability standards in managing a multi-member engineering team.
 
 ### George Vaporis  
 George Vaporis is a senior at Tennessee Technological University, majoring in Electrical Engineering. He is responsible for completing all tasks assigned in a manner of good quality and timeliness. He has previous experience in working in group projects that have involved coding, building, and information gathering and analysis, giving him the necessary experience to complete any tasks assigned for this project.
