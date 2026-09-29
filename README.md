@@ -2,7 +2,19 @@
 
 # Executive Summary
 
-Give the elevator pitch and abstract for the project. It should allow interested visitors to broadly understand the motivation for the project and what the project has accomplished.
+### Elevator Pitch
+
+Team 6 transformed an incomplete, nonoperational golf cart into a working platform for evaluating solar-assisted electric transportation. In partnership with LANI-EV, the team restored Tennessee Tech’s Club Car, integrated a lithium iron phosphate battery and solar-charging system, and evaluated how solar energy replenishes the battery relative to vehicle energy use. The project also produced an adaptable solar-panel mounting kit and a simulated four-servo control concept that directs the panel toward the sun while the cart is parked. Together, these outcomes provide practical designs, performance evidence, and repeatable documentation to support future solar-powered vehicle retrofits.
+
+### Abstract
+
+Solar-assisted low-speed vehicles offer an opportunity to supplement grid charging with onboard renewable energy. Their practical value depends on reliable integration, adaptable mounting hardware, and an understanding of how solar generation compares with vehicle energy demand. Working with LANI-EV, Tennessee Technological University’s Electrical and Computer Engineering Team 6 addressed these challenges through vehicle restoration, retrofit implementation, performance testing, and control-system design.
+
+The team restored an inherited Club Car that arrived partially disassembled and without batteries or a steering wheel. A lithium iron phosphate battery and solar-charging system were integrated, supported by an illustrated conversion procedure, as-built electrical documentation, and installation records. Post-conversion testing characterized solar charging and vehicle discharge under documented operating conditions, providing an evidence-based assessment of the system’s energy balance.
+
+To improve installation adaptability, the team surveyed roof configurations across three major vehicle brands and developed a functional mounting-kit prototype designed to accommodate selected models from at least two brands. The team also developed and evaluated a software concept for parked-vehicle solar tracking. Using vehicle-state, compass-heading, date/time, and geographic-location inputs, the algorithm generated coordinated commands for four servos within a modeled range of panel motion. Simulation evaluated orientation calculations, operating-state transitions, and responses to invalid inputs.
+
+The completed project delivered a restored demonstration vehicle, retrofit documentation, performance data, a mounting-kit engineering package, and a simulated solar-tracking concept. These deliverables establish a foundation for LANI-EV and future engineering teams to refine solar-assisted vehicle designs and assess their suitability for specific operating conditions.
 
 
 # Capabilities
@@ -39,9 +51,7 @@ Parker Branson is a senior in Electrical Engineering and has an associate's degr
 
 ---
 
-## Faculty Supervisor
-
-### Dr. Charles Van Neste
+## Faculty Supervisor -- Dr. Charles Van Neste
 
 | Field | Information |
 |------|-------------|
@@ -51,9 +61,8 @@ Parker Branson is a senior in Electrical Engineering and has an associate's degr
 | **Email** | cvanneste@tntech.edu |
 | **Phone** | (931) 372-3682 |
 
----
 
-#### Research Areas and Interests
+### Research Areas and Interests
 
 | Research Area |
 |---------------|
@@ -62,9 +71,7 @@ Parker Branson is a senior in Electrical Engineering and has an associate's degr
 | Electronic instrumentation |
 | Electromagnetic interactions |
 
----
-
-#### Educational Background
+### Educational Background
 
 | Degree / Position | Institution | Year | Notes |
 |-------------------|------------|------|------|
