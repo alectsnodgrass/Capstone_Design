@@ -1,9 +1,11 @@
-# **Project: HELIOS**
+# **Project HELIOS**
 
 > [!NOTE]
 > Project HELIOS takes its name from Helios, the Greek personification of the Sun. In ancient mythology, Helios commanded a magnificent chariot of fire, drawn by four powerful horses, carrying the Sun across the heavens each day.
 > 
 > His legendary journey symbolizes the union of solar energy, power, and motion. Just as Helios harnessed the power of the Sun to drive his celestial chariot, Project HELIOS seeks to harness solar energy to power modern vehicles.
+<img width="368" height="300" alt="HELIOS" src="https://github.com/user-attachments/assets/a5263699-9cf3-4ba8-8307-cf93b67f0727" />
+
 
 # Executive Summary
 
